@@ -18,3 +18,5 @@ npm start
 ```
 
 Now, visit [http://localhost:3000/draw](http://localhost:3000/draw).
+
+I use curl for checking response headers. `curl -v http://localhost:3000/draw`
